@@ -1,0 +1,16 @@
+{
+  "publicationReady": true,
+  "preview": false,
+  "supportEmailConfirmed": true,
+  "languages": [
+    "en",
+    "de",
+    "ru"
+  ],
+  "pages": 16,
+  "medicalSources": 88,
+  "laboratoryMarkers": 44,
+  "clinicalTopics": 65,
+  "contentUpdated": "2026-11-12",
+  "published": false
+}
